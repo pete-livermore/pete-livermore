@@ -1,8 +1,8 @@
 ### Hi, I'm Pete 👋
 
-I'm a user-focussed full-stack developer building clear, eye-catching, usable applications, looking for my first role as a junior. I used to design and manage digital tools in my previous career, but I realised it's way more fun to build them. I gained some skills (see below) through full-time study and practical experience on a bootcamp with General Assembly, and I'm now looking to consolidate and build on these in a fast-paced and innovative professional setting.
+I'm a user-focussed full-stack developer building clear, eye-catching, usable applications, looking for my first role as a junior. I used to design and manage digital tools in my previous career, but I realised it's way more fun to build them. I gained a whole range of skills (see below) through full-time study and practical experience on a bootcamp with General Assembly, and I'm now looking to consolidate and build on these in a fast-paced and innovative professional setting.
 
-Skills
+Skills/tools I have experience with
 ------
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,11 +24,10 @@ Skills
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Links
 ------
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petelivermore/)
+
 [Personal website](https://www.petelivermore.com)
