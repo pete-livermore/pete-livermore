@@ -1,6 +1,6 @@
 ### Hi, I'm Pete 👋
 
-I'm a user-focussed full-stack developer who loves to build clear, eye-catching, usable applications - looking for my first role as a junior. I used to design and manage digital tools in my previous career, but I realised it's way more fun to build them. I gained a whole range of skills (see below) through full-time study and practical experience on a bootcamp with General Assembly, and I'm now looking to consolidate and build on these in a fast-paced and innovative professional setting.
+I'm a professional full-stack developer building eye-catching, responsive and usable applications, mainly using Typescript/React/Node.
 
 Skills/tools I have experience with
 ------
