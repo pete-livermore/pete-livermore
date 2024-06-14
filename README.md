@@ -23,7 +23,7 @@ I'm a professional full-stack developer building eye-catching, responsive and us
 
 #### Frameworks:
 
-- Next JS
+- Next.js
 - Remix
 - Express.js
 - NestJS
